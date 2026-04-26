@@ -24,6 +24,7 @@ Analysis of NFL quarterback completion percentages using NFLFastR play-by-play d
   evaluation of true QB performance
 
 ## Visualizations
-[We'll add screenshots here later] width="1512" height="982" alt="Screenshot 2026-04-26 at 6 23 59 PM" src="https://github.com/user-attachments/assets/113477aa-b51e-4fc1-bfb9-cef424d287c8" />
+[We'll add screenshots here later] <img width="1512" height="982" alt="Screenshot 2026-04-26 at 6 26 11 PM" src="https://github.com/user-attachments/assets/d25a3d57-fd1d-4034-a8ab-512debb6ad89" />
+<img width="1512" height="982" alt="Screenshot 2026-04-26 at 6 26 53 PM" src="https://github.com/user-attachments/assets/188b3e2a-a549-42e4-aec7-76314ef57a0e" />
 
 
